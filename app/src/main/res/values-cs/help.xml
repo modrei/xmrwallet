@@ -1,23 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="help_create_new"><![CDATA[
-        <h1>Create Wallet - New</h1>
-        <p>If you need a new Monero Address!</p>
-        <p>Enter a unique wallet name and password.
-        The password is used for securing your wallet data on the device. Use a strong password -
-        even better use a passphrase.</p>
-        <h2>Note your Mnemonic Seed!</h2>
-        <p>On the following screen you will find your 25-word \"Mnemonic Seed\".
-        This is the only data needed to recover your wallet at a later point
-        and gain full access to your funds.
-        Keeping this secure and private is very important, as it gives <em>anyone</em>
-        full access to your funds!</p>
-        <p>If you lose your wallet password, you can still recover your wallet with the Mnemonic Seed.</p>
-        <p>There is no way to recover your Mnemonic Seed, if you lose it all your funds will be lost!
-        The Mnemonic Seed can also never be changed, and if it is stolen or otherwise compromised,
-        you will have to move your funds to new wallet (with a new Mnemonic Seed). Therefore, it is best
-        that you backup your Mnemonic Seed by writing it down and storing it in <em>multiple</em> safe
-        and secure places.</p>
+        <h1>Tvorba peněženky - Nová - </h1>
+        <p>Pokud potřebujete Monero adresu!</p>
+        <p>Zadejte originální název peněženky a heslo.
+        Vybrané heslo bude sloužit k zabezpečení vaší peněženky na tomto zařízení. Použijte silné heslo - 
+        nejlépe frázi. </p>
+        <h2>Zapište si mnemotechnické heslo!</h2>
+        <p>V následujícím okně bude vypsané vaše \"mnemotechnické heslo\" obsahujících 25 slov.
+        Toto budou jediné potřebné údaje v případě že by jste potřebovali někdy v budoucnu svojí peněženku znovu vygenerovat (a získat zpět své Monero :)) 
+        Je velmi důležité aby jste tato slova měli pečlivě uschovaná jelikož to umožňuje <em>komukoliv</em> plný přístup k vašim prostředkům! </p>
+        <p>V případě ztráty hesla peněženky je stále možné peněženku znovu vygenerovat pomocí mnemotechnického hesla.</p>
+        <p>Není možné znovu vygenerovat mnemotechnické heslo, pokud ho ztratíte tak je po penězích! 
+        Mnemotechnické heslo nejde změnit, v případě odcizení či ztráty je silně doporučeno vygenerovat novou pěněženku (s novým mnemotechnickým heslem)
+        a přemístit své prostředky tam. Dále je doporučováno si své mnemotechnické heslo zapsat a uchovávat ho na <em>několika</em> bezpečných místech najednou.</p>
     ]]></string>
 
     <string name="help_create_seed"><![CDATA[
